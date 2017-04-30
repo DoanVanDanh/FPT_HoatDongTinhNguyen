@@ -1,0 +1,14 @@
+body{
+	background-color:  ;
+	background-image: url(https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.0-1/c0.0.160.160/p160x160/18034131_797208327115730_3235376023623470323_n.jpg?oh=a38d6d62d6b803ef2f696c2da516f005&oe=59950B17) no-repeat center;;
+	
+   
+}
+
+label
+{
+	float:left;
+}
+.form-group span{
+	color:red;
+}
